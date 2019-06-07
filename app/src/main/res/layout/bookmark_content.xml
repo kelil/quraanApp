@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:clickable="true"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_height="wrap_content"
+    android:focusable="true">
+
+    <LinearLayout
+        android:clickable="true"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true">
+
+        <TextView
+            android:textColor="#c14510"
+            android:id="@+id/suraname"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/arabicb"
+            android:gravity="start"
+            android:textSize="30sp"
+            android:paddingRight="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingEnd="2dp"
+            android:typeface="serif"
+            android:text="@string/def"
+            tools:ignore="RtlSymmetry" />
+
+        <TextView
+            android:id="@+id/translation"
+            android:textSize="18sp"
+            android:gravity="start"
+            android:textColor="#000"
+            android:paddingLeft="2dp"
+            android:layout_width="match_parent"
+            android:typeface="sans"
+            android:layout_height="wrap_content"
+            android:paddingStart="2dp"
+            tools:ignore="RtlSymmetry"
+            android:text="@string/praise_be_to_allah_the_cherisher_and_sustainer_of_the_worlds" />
+    </LinearLayout>
+
+</LinearLayout>

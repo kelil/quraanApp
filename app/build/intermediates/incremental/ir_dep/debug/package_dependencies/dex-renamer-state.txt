@@ -1,0 +1,4 @@
+#Tue May 07 10:59:00 EAT 2019
+base.0=/home/khalil/AndroidStudioProjects/Quraan/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

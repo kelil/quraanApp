@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3">
+    <dataSet config="main"
+        ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~">
+        <source path="/home/khalil/AndroidStudioProjects/Quraan/app/src/main/assets">
+            <file name="fontislamiccolor.ttf"
+                path="/home/khalil/AndroidStudioProjects/Quraan/app/src/main/assets/fontislamiccolor.ttf" />
+            <file name="MADDINA.ttf"
+                path="/home/khalil/AndroidStudioProjects/Quraan/app/src/main/assets/MADDINA.ttf" />
+            <file name="quran2db.db"
+                path="/home/khalil/AndroidStudioProjects/Quraan/app/src/main/assets/quran2db.db" />
+        </source>
+        <source
+            path="/home/khalil/AndroidStudioProjects/Quraan/app/build/intermediates/shader_assets/debug/compileDebugShaders/out" />
+    </dataSet>
+    <dataSet config="debug"
+        ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~">
+        <source path="/home/khalil/AndroidStudioProjects/Quraan/app/src/debug/assets" />
+    </dataSet>
+</merger>

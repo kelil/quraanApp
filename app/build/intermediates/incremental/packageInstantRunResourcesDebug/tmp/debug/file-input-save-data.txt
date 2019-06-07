@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Fri May 17 23:29:32 EAT 2019
+1.base=/home/khalil/AndroidStudioProjects/Quraan/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.path=quran2db.db
+0.baseType=DIRECTORY
+2.base=/home/khalil/AndroidStudioProjects/Quraan/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=fontislamiccolor.ttf
+0.set=ASSET
+0.base=/home/khalil/AndroidStudioProjects/Quraan/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.baseType=DIRECTORY
+1.path=MADDINA.ttf

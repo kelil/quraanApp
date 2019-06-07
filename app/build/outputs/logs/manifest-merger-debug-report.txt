@@ -1,0 +1,294 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/c7cb6afd609deacb07bba53454c5cd46/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/12f9bf27243650b0051193afbf50dd79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7c6b094cefbbad7333bcbb1955b71636/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/khalil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1978e2eeb11352b91346825d759b6532/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/1fd89456fa669f30f7c8d7ed6e3cb7aa/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/9184f27de08070622e5da13f73c9249e/AndroidManifest.xml:15:1-25:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/0e1d23a7a25a7a35e9b1225b62c9b6c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/6c42b7930d07a68c89539bd801a2afaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/6e0beb78d3af8cc99078e6ea082a138d/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/35152aafcd992ed75e304a46707c3f03/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/0a0d8d385c2283470c98b5107fc0059d/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/4cf61642cda216e1568efb855c561fa3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4534ffb20231d5750db19a17ad13094d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/664bd059b764c820941a23c4afee5251/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4fef2eafd9b2d17955143e0dd09abec9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1e92f06f2d6323239c69cfa74b01e813/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/00356cb62cc970bad1b5d42930b35831/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2d8ae53fff01c5cdf2ce1b9cdc4d6aad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0f746a7fc855095b6b4729a8d084f09d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/18249012f5981bf643736042eb95b163/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9c3322af531f565adf64a29a160641aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/125f96fe49bd03ba534bfa6b130ed5b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/987a5aec0404cd5d3ca69f99498b22df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e7b3556b56cd10080a1db8ab3e27d1dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c8db3e4c43e4f2cd1dd5a4cbfeb23b3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/73c67a5f9d82f3426fd45df5435551be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/41294ddd88f6ceb7766e0444aae0a3bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a829473b31a6ad20e8ac1cf5c8427d52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/6e8375ffe8a822df1258288b38d56894/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7ed759a94482736dafe54030f6d05acc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9b7fc9d87635293e8a5f16c7aa4d92a9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/998df9d009d4d01adcdf62f44bc58134/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/45e92f085625873c4abd0127b9609e68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/596b75f7661846eba2c58e091b8f6856/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bb66d8813def31ca1b4448df127998bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/faf48f6f76d2fbe7ce8463088049ad03/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a2153563917f163b91998c698db65808/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a56df442cf675dd5a1989e425599ee55/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/411aae9aab5dc51f1aafdfa9803f8893/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9cb8b55a6a02e9333c73591d0da6c0ce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2e80a3a4a2ecfb4b5dfd41b182b2c30c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/3a3fef7186106c70ea9a4b81f2a95356/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:4:5-38
+		INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/1fd89456fa669f30f7c8d7ed6e3cb7aa/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/1fd89456fa669f30f7c8d7ed6e3cb7aa/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/9184f27de08070622e5da13f73c9249e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/9184f27de08070622e5da13f73c9249e/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:10:5-25:19
+MERGED from [com.android.support:design:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/c7cb6afd609deacb07bba53454c5cd46/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/c7cb6afd609deacb07bba53454c5cd46/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/khalil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1978e2eeb11352b91346825d759b6532/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/khalil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1978e2eeb11352b91346825d759b6532/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/6e0beb78d3af8cc99078e6ea082a138d/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/6e0beb78d3af8cc99078e6ea082a138d/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/35152aafcd992ed75e304a46707c3f03/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/35152aafcd992ed75e304a46707c3f03/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/0a0d8d385c2283470c98b5107fc0059d/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/0a0d8d385c2283470c98b5107fc0059d/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/4cf61642cda216e1568efb855c561fa3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/4cf61642cda216e1568efb855c561fa3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4534ffb20231d5750db19a17ad13094d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4534ffb20231d5750db19a17ad13094d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7ed759a94482736dafe54030f6d05acc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7ed759a94482736dafe54030f6d05acc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9b7fc9d87635293e8a5f16c7aa4d92a9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9b7fc9d87635293e8a5f16c7aa4d92a9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7ed759a94482736dafe54030f6d05acc/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:17:9-48
+	android:roundIcon
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:14:9-44
+	android:icon
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:12:9-39
+	android:allowBackup
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.harar.khalil.quraan.activity.MainActivity
+ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:18:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/c7cb6afd609deacb07bba53454c5cd46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/c7cb6afd609deacb07bba53454c5cd46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/12f9bf27243650b0051193afbf50dd79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/12f9bf27243650b0051193afbf50dd79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7c6b094cefbbad7333bcbb1955b71636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7c6b094cefbbad7333bcbb1955b71636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/khalil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1978e2eeb11352b91346825d759b6532/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/khalil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1978e2eeb11352b91346825d759b6532/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/1fd89456fa669f30f7c8d7ed6e3cb7aa/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/1fd89456fa669f30f7c8d7ed6e3cb7aa/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/9184f27de08070622e5da13f73c9249e/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/9184f27de08070622e5da13f73c9249e/AndroidManifest.xml:18:5-20:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/0e1d23a7a25a7a35e9b1225b62c9b6c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/0e1d23a7a25a7a35e9b1225b62c9b6c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/6c42b7930d07a68c89539bd801a2afaf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/6c42b7930d07a68c89539bd801a2afaf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/6e0beb78d3af8cc99078e6ea082a138d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/6e0beb78d3af8cc99078e6ea082a138d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/35152aafcd992ed75e304a46707c3f03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/35152aafcd992ed75e304a46707c3f03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/0a0d8d385c2283470c98b5107fc0059d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/0a0d8d385c2283470c98b5107fc0059d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/4cf61642cda216e1568efb855c561fa3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/4cf61642cda216e1568efb855c561fa3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4534ffb20231d5750db19a17ad13094d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4534ffb20231d5750db19a17ad13094d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/664bd059b764c820941a23c4afee5251/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/664bd059b764c820941a23c4afee5251/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4fef2eafd9b2d17955143e0dd09abec9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4fef2eafd9b2d17955143e0dd09abec9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1e92f06f2d6323239c69cfa74b01e813/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1e92f06f2d6323239c69cfa74b01e813/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/00356cb62cc970bad1b5d42930b35831/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/00356cb62cc970bad1b5d42930b35831/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2d8ae53fff01c5cdf2ce1b9cdc4d6aad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2d8ae53fff01c5cdf2ce1b9cdc4d6aad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0f746a7fc855095b6b4729a8d084f09d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0f746a7fc855095b6b4729a8d084f09d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/18249012f5981bf643736042eb95b163/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/18249012f5981bf643736042eb95b163/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9c3322af531f565adf64a29a160641aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9c3322af531f565adf64a29a160641aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/125f96fe49bd03ba534bfa6b130ed5b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/125f96fe49bd03ba534bfa6b130ed5b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/987a5aec0404cd5d3ca69f99498b22df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/987a5aec0404cd5d3ca69f99498b22df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e7b3556b56cd10080a1db8ab3e27d1dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e7b3556b56cd10080a1db8ab3e27d1dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c8db3e4c43e4f2cd1dd5a4cbfeb23b3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c8db3e4c43e4f2cd1dd5a4cbfeb23b3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/73c67a5f9d82f3426fd45df5435551be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/73c67a5f9d82f3426fd45df5435551be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/41294ddd88f6ceb7766e0444aae0a3bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/41294ddd88f6ceb7766e0444aae0a3bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a829473b31a6ad20e8ac1cf5c8427d52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a829473b31a6ad20e8ac1cf5c8427d52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/6e8375ffe8a822df1258288b38d56894/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/6e8375ffe8a822df1258288b38d56894/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7ed759a94482736dafe54030f6d05acc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7ed759a94482736dafe54030f6d05acc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9b7fc9d87635293e8a5f16c7aa4d92a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9b7fc9d87635293e8a5f16c7aa4d92a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/998df9d009d4d01adcdf62f44bc58134/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/998df9d009d4d01adcdf62f44bc58134/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/45e92f085625873c4abd0127b9609e68/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/45e92f085625873c4abd0127b9609e68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/596b75f7661846eba2c58e091b8f6856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/596b75f7661846eba2c58e091b8f6856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bb66d8813def31ca1b4448df127998bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bb66d8813def31ca1b4448df127998bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/faf48f6f76d2fbe7ce8463088049ad03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/faf48f6f76d2fbe7ce8463088049ad03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a2153563917f163b91998c698db65808/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a2153563917f163b91998c698db65808/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a56df442cf675dd5a1989e425599ee55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a56df442cf675dd5a1989e425599ee55/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/411aae9aab5dc51f1aafdfa9803f8893/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/411aae9aab5dc51f1aafdfa9803f8893/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9cb8b55a6a02e9333c73591d0da6c0ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9cb8b55a6a02e9333c73591d0da6c0ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2e80a3a4a2ecfb4b5dfd41b182b2c30c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2e80a3a4a2ecfb4b5dfd41b182b2c30c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/3a3fef7186106c70ea9a4b81f2a95356/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/3a3fef7186106c70ea9a4b81f2a95356/AndroidManifest.xml:5:5-44
+INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+		ADDED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khalil/AndroidStudioProjects/Quraan/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-storage:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/1fd89456fa669f30f7c8d7ed6e3cb7aa/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/9184f27de08070622e5da13f73c9249e/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/9184f27de08070622e5da13f73c9249e/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:16.0.5] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/1fd89456fa669f30f7c8d7ed6e3cb7aa/AndroidManifest.xml:23:22-76
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:33:9-39:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/76889ee0e88ceac51f004d205998e349/AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/35152aafcd992ed75e304a46707c3f03/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/35152aafcd992ed75e304a46707c3f03/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/35152aafcd992ed75e304a46707c3f03/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/35152aafcd992ed75e304a46707c3f03/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.4] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/0a0d8d385c2283470c98b5107fc0059d/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/0a0d8d385c2283470c98b5107fc0059d/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/0a0d8d385c2283470c98b5107fc0059d/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/0a0d8d385c2283470c98b5107fc0059d/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /home/khalil/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/0a0d8d385c2283470c98b5107fc0059d/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4534ffb20231d5750db19a17ad13094d/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4534ffb20231d5750db19a17ad13094d/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/khalil/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4534ffb20231d5750db19a17ad13094d/AndroidManifest.xml:24:13-58

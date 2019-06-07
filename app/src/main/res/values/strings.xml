@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quraan</string>
+    <string name="setting">setting</string>
+    <string name="exit">Exit</string>
+    <string name="lang">Languages</string>
+    <string name="downloading">Downloading...</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_mahfuz">Mahfuz</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="afaan_oromo">Afaan Oromo</string>
+    <string name="amharic">አማርኛ</string>
+    <string name="def">الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ</string>
+    <string name="praise_be_to_allah_the_cherisher_and_sustainer_of_the_worlds">Praise be to Allah, the Cherisher and Sustainer of the worlds;</string>
+    <string name="al_fatihah">Al-Fatihah</string>
+    <string name="search">search</string>
+    <string name="nav_header_desc">nav_header_desc</string>
+    <string name="nav_header_title">nav_header_title</string>
+    <string name="nav_header_subtitle">nav_header_subtitle</string>
+    <string name="action_settings">settings</string>
+    <string name="khalil">K97H</string>
+    <string name="kelilherer">kelilherer@gmail.com</string>
+    <string name="english">English</string>
+    <string name="backgroundcolor">backgroundcolor</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="muzhaf">No Translation</string>
+    <string name="bookmark">BOOKMARK</string>
+    <string name="juz">JUZ</string>
+    <string name="surahs">SURAHS</string>
+    <string name="about">ABOUT US</string>
+    <string name="home">HOME</string>
+</resources>
